@@ -1,1 +1,1 @@
-"Bonjour, je m’appelle" + login
+"Bonjour, je m’appelle" + login + nom
